@@ -14,7 +14,7 @@ _Since it is not possible for us to manually change the MAC Address every time, 
 
 ### Usage
 ```
-git clone 
+git clone https://github.com/fatahhhh/MAC_changer.git
 ```
 
 ___
