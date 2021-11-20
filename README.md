@@ -15,6 +15,8 @@ _Since it is not possible for us to manually change the MAC Address every time, 
 ### Usage
 ```
 git clone https://github.com/fatahhhh/MAC_changer.git
+cd MAC_changer
+sudo python mac.py -i <interface-name> -m <new-mac-address>
 ```
 
 ___
